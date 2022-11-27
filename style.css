@@ -1,0 +1,27 @@
+body{
+    background-color: #14213d;
+}
+
+ul,
+h1{
+    background-color: rgb(0, 0, 0);
+}
+h1{
+    color: #fca311;
+    text-align: center;
+    font-size: 100px;
+    font-weight: 800;
+}
+
+ul{
+    color:#e5e5e5;
+}
+
+li{
+    font-size: 35px;
+}
+
+#gif{
+    width: auto;
+    height: 500px;
+}
