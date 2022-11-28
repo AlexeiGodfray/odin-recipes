@@ -1,3 +1,6 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
 body{
     background-color: #14213d;
 }
@@ -14,14 +17,20 @@ h1{
 }
 
 ul{
-    color:#e5e5e5;
+    color:#fca311
+}
+
+ol{
+    color:white;
 }
 
 li{
     font-size: 35px;
+
 }
 
 #gif{
     width: auto;
     height: 500px;
 }
+
